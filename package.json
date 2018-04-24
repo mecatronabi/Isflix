@@ -1,0 +1,20 @@
+{
+  "name": "isflix",
+  "version": "1.0.0",
+  "description": "A minimal version of netflix in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"browser-sync start --server --files 'css/*.css', 'js/*.js', *.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecatronabi/Isflix.git"
+  },
+  "author": "Nabila Padilla <ing.nab@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mecatronabi/Isflix/issues"
+  },
+  "homepage": "https://github.com/mecatronabi/Isflix#readme"
+}
